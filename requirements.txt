@@ -1,0 +1,17 @@
+# Data processing
+pandas
+numpy
+scikit-learn
+
+# Experiment tracking
+mlflow
+
+# Data version control
+dvc
+
+# Optional: Jupyter for notebook prototyping
+jupyter
+
+# Optional: Add any other libraries you might use, like matplotlib or seaborn, for data visualization
+matplotlib
+seaborn
